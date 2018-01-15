@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_height">180dp</dimen>
+    <dimen name="card_margin">16dp</dimen>
+    <dimen name="star_image_height">14dp</dimen>
+    <dimen name="star_image_width">14dp</dimen>
+    <dimen name="margin2dp">2dp</dimen>
+    <dimen name="margin4dp">4dp</dimen>
+    <dimen name="margin10dp">10dp</dimen>
+    <dimen name="margin20dp">20dp</dimen>
+    <dimen name="view_height_1dp">1dp</dimen>
+    <dimen name="card_margin_5dp">5dp</dimen>
+    <dimen name="card_album_radius">0dp</dimen>
+    <dimen name="album_title_padding">10dp</dimen>
+    <dimen name="album_title">18dp</dimen>
+</resources>

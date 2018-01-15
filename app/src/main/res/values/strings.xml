@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ola Play Studios</string>
+    <string name="loading_msg">Loading, please wait</string>
+    <string name="connection_msg">Connecting server</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
